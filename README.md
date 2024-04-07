@@ -32,25 +32,6 @@ This **[youtube link](https://youtu.be/G90dqSncwT8)** takes you to the unlisted 
 4. StableLM-3B (Not yet tested)
 5. Phi-2 (Not yet tested)
 
-### Run the Application (if your device is Rooted)
-
-*   Download any of the models from 
-    **[compatible models](https://developers.google.com/mediapipe/solutions/genai/llm_inference#models)**. 
-    
-*   Remember to quantise the models if you are using any of the following models: 
-    Phi-2, Falcon 1B or StableLM-3B. Gemma models do not need to be quantised but make sure 
-    you select the TensorFlow Lite version under Model Variation in Kaggle.
-
-*   Once you download it, place it under the path defined as modelPath in InferenceModel on 
-    the Android device (eg. /data/local/tmp/llm/). You can use ZArchiver (An app from google playstore) to move the model from Download to the modelPath.
-
-*   Download and install the beta version of Athene Companion from this github repository. It is
-    located in the Beta-APK folder.
-
-*   Athene Companion will automatically detect the LLM on your device.
-
-*   Then just choose the model of your choice and chat away!
-
 ### Run the Application (if your device is NOT-Rooted)
 
 *   Download any of the models from 
@@ -74,6 +55,25 @@ This **[youtube link](https://youtu.be/G90dqSncwT8)** takes you to the unlisted 
 
 *   For a step-by-step visual guide on this process (applicable only for non-rooted devices), 
     please refer to this **[tutorial video]()**.
+
+### Run the Application (if your device is Rooted)
+
+*   Download any of the models from 
+    **[compatible models](https://developers.google.com/mediapipe/solutions/genai/llm_inference#models)**. 
+    
+*   Remember to quantise the models if you are using any of the following models: 
+    Phi-2, Falcon 1B or StableLM-3B. Gemma models do not need to be quantised but make sure 
+    you select the TensorFlow Lite version under Model Variation in Kaggle.
+
+*   Once you download it, place it under the path defined as modelPath in InferenceModel on 
+    the Android device (eg. /data/local/tmp/llm/). You can use ZArchiver (An app from google playstore) to move the model from Download to the modelPath.
+
+*   Download and install the beta version of Athene Companion from this github repository. It is
+    located in the Beta-APK folder.
+
+*   Athene Companion will automatically detect the LLM on your device.
+
+*   Then just choose the model of your choice and chat away!
 
 ## Contact
 
