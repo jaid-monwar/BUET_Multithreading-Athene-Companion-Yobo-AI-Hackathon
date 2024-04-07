@@ -54,7 +54,7 @@ This **[youtube link](https://youtu.be/G90dqSncwT8)** takes you to the unlisted 
 *   Then just choose the model of your choice and chat away!
 
 *   For a step-by-step visual guide on this process (applicable only for non-rooted devices), 
-    please refer to this **[tutorial video]()**.
+    please refer to this **[tutorial video](https://youtu.be/my-TzKrmrzM)**.
 
 ### Run the Application (if your device is Rooted)
 
