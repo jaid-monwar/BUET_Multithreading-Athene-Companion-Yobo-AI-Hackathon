@@ -90,6 +90,6 @@ Please note the app is still in beta phase and might crash after a few prompts d
 
 ## Contact
 
-Jaid Monwar Chowdhury - [@jaid_monwar](https://www.facebook.com/jmc.unbesiegbar26/) - jaidmonwar.edu@gmail.com
+Jaid Monwar Chowdhury - **[@jaid_monwar](https://www.facebook.com/jmc.unbesiegbar26/)** - jaidmonwar.edu@gmail.com
 
-Humayra Binte Monwar - [@humayra_monwar](https://www.facebook.com/) - humayramonwar@gmail.com
+Humayra Binte Monwar - **[@humayra_monwar](https://www.facebook.com/profile.php?id=100011073757567&mibextid=ZbWKwL)** - humayramonwar@gmail.com
