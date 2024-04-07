@@ -7,6 +7,7 @@ Athene Companion is an android app that helps users to communicate with On-Devic
 This application must be run on a physical Android device to take advantage of the device GPU. (Please do not run it on an Emulator)
 
 ![LLM Inference Demo](llm_inference.png)
+
 ![LLM Inference Demo 2](llm_inference_2.png)
 
 ## Prototype Presentation
