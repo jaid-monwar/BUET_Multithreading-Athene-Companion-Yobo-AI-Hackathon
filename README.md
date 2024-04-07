@@ -1,4 +1,4 @@
-# Yobo-Athene-Companion
+# Athene-Companion
 
 ### Overview
 
