@@ -26,8 +26,8 @@ This **[youtube link](https://youtu.be/G90dqSncwT8)** takes you to the unlisted 
 
 ### Models Tested (On Device: OnePlus 8T)
 
-1. gemma-2b-it-cpu-int4.bin (Tested :white_check_mark)
-2. gemma-2b-it-gpu-int4.bin (Tested :white_check_mark)
+1. gemma-2b-it-cpu-int4.bin (Tested :white_check_mark:)
+2. gemma-2b-it-gpu-int4.bin (Tested :white_check_mark:)
 3. Falcon-1B (Not yet tested)
 4. StableLM-3B (Not yet tested)
 5. Phi-2 (Not yet tested)
