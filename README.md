@@ -75,6 +75,19 @@ This **[youtube link](https://youtu.be/G90dqSncwT8)** takes you to the unlisted 
 
 *   Then just choose the model of your choice and chat away!
 
+## Potential Issues
+
+Please note the app is still in beta phase and might crash after a few prompts depending on the device hardware.
+
+## LLM Quantization
+
+### Size Comparison
+
+![LLM Quantization Size Comparison](llm_quantized_size_comparison.png)
+**[Reference Link](https://www.dfrobot.com/blog-13412.html)**
+
+**[Impact of Quantization on LLM Performance](https://medium.com/@olga.zem/exploring-the-impact-of-quantization-on-llm-performance-5698e16c5564)**
+
 ## Contact
 
 Jaid Monwar Chowdhury - [@jaid_monwar](https://www.facebook.com/jmc.unbesiegbar26/) - jaidmonwar.edu@gmail.com
